@@ -1,4 +1,4 @@
-#  Learn_JAVA_Data_Structures_&_Algo_in_4.5_Months
+# Learn_JAVA_Data_Structures_&_Algo_in_4.5_Months
 This is the Curriculum for "Learn JAVA Data Structures and Algorithms in 4.5 Months"
 
 # Month 1
